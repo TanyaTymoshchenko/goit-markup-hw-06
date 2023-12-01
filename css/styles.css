@@ -1044,7 +1044,7 @@ main {
 
 .hero {
     background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-    url(../images/background-tab.jpg);
+    url(../images/people-office-tab.jpg);
     ;
 }
 
@@ -1155,7 +1155,7 @@ gap: 72px 24px;
 
 .hero {
     background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-    url(../images/background-desc.jpg);
+    url(../images/people-office-desc.jpg);
 }
 
 .address-list {
@@ -1282,21 +1282,21 @@ gap: 72px 24px;
     @media (max-width:767px) {
         .hero {
             background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-                url(../images/background-mob2x.jpg);
+                url(../images/people-office-mob2x.jpg);
         }
     }
 
     @media (min-width:768px) {
         .hero {
             background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-                url(../images/background-tab2x.jpg);
+                url(../images/people-office-tab2x.jpg);
         }
     }
 
     @media (min-width:1158px) {
         .hero {
             background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-                url(../images/background-desc2x.jpg);
+                url(../images/people-office-desc2x.jpg);
         }
     }
 }   }}
