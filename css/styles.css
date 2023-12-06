@@ -1285,24 +1285,24 @@ gap: 72px 24px;
 @media (min-device-pixel-ratio: 2),
 (min-resolution: 192dpi),
 (min-resolution: 2dppx) {
-    @media (max-width:767px) {
-        .hero {
-            background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-                url(../images/people-office-mob2x.jpg);
+@media (max-width:767px) {
+    .hero {
+    background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
+    url(../images/people-office-mob2x.jpg);
         }
-    }
+}
 
-    @media (min-width:768px) {
-        .hero {
-            background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-                url(../images/people-office-tab2x.jpg);
+@media (min-width:768px) {
+    .hero {
+    background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
+    url(../images/people-office-tab2x.jpg);
         }
-    }
+}
 
-    @media (min-width:1158px) {
-        .hero {
-            background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
-                url(../images/people-office-desc2x.jpg);
+@media (min-width:1158px) {
+    .hero {
+    background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)),
+    url(../images/people-office-desc2x.jpg);
         }
-    }
+}
 }   }}
